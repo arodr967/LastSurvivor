@@ -1,0 +1,2 @@
+# LastSurvivor
+There are n items, numbered from 1 to n in a given array and given a positive integer number k (k &lt; n). We start from item number 1 and delete from the array the item number k and so on until one item remains. The task is to output the initial position of this remaining item. For example, if we have an array = [1, 2, 3, 4, 5, 6, 7], n = 7 and k = 3, then the numbers 3, 6, 2, 7, 5, 1 are deleted in order, and the number 4 survives.
